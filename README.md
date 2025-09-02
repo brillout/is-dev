@@ -12,8 +12,8 @@ How it works is dead simple:
 ```json5
 // node_modules/is-dev/package.json
 "exports": {
-  "development": "./export-true.js",
-  "default": "./export-false.js"
+  "development": "./export-true.mjs",
+  "default": "./export-false.mjs"
 }
 ```
 

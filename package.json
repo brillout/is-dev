@@ -1,10 +1,9 @@
 {
   "name": "is-dev",
   "version": "0.2.0",
-  "dependencies": {},
   "exports": {
-    "development": "./export-development.mjs",
-    "default": "./export-default.mjs"
+    "development": "./export-true.mjs",
+    "default": "./export-false.mjs"
   },
   "repository": "github:brillout/is-dev",
   "license": "MIT"
