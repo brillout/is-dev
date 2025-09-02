@@ -1,0 +1,12 @@
+{
+  "name": "is-dev",
+  "version": "0.2.0",
+  "dependencies": {},
+  "types": "./dist/esm/index.d.ts",
+  "exports": {
+    "development": "./export-development.mjs",
+    "default": "./export-default.mjs"
+  },
+  "repository": "github:brillout/is-dev",
+  "license": "MIT"
+}
