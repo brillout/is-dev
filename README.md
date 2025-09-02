@@ -21,4 +21,5 @@ Currently works in:
 ✅ Vite  
 ❌ Node.js  
 
+> [!NOTE]
 > Once Vite uses Rolldown (i.e. full-bundle mode), this package will work for Vite-based app.
